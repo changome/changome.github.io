@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://52pic.github.io</id>
+    <id>https://changome.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-09T06:51:36.686Z</updated>
+    <updated>2020-07-09T06:55:48.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://52pic.github.io"/>
-    <link rel="self" href="https://52pic.github.io/atom.xml"/>
+    <link rel="alternate" href="https://changome.github.io"/>
+    <link rel="self" href="https://changome.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://52pic.github.io/images/avatar.png</logo>
-    <icon>https://52pic.github.io/favicon.ico</icon>
+    <logo>https://changome.github.io/images/avatar.png</logo>
+    <icon>https://changome.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://52pic.github.io/post/hello-gridea/</id>
-        <link href="https://52pic.github.io/post/hello-gridea/">
+        <id>https://changome.github.io/post/hello-gridea/</id>
+        <link href="https://changome.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
