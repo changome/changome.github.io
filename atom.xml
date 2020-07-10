@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changome.github.io</id>
     <title>成麦资源网</title>
-    <updated>2020-07-09T14:49:06.450Z</updated>
+    <updated>2020-07-10T01:04:25.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changome.github.io"/>
     <link rel="self" href="https://changome.github.io/atom.xml"/>
@@ -10,6 +10,165 @@
     <logo>https://changome.github.io/images/avatar.png</logo>
     <icon>https://changome.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 成麦资源网</rights>
+    <entry>
+        <title type="html"><![CDATA[迅捷PDF转换器6.9离线安装版]]></title>
+        <id>https://changome.github.io/post/wL3V_Fln7/</id>
+        <link href="https://changome.github.io/post/wL3V_Fln7/">
+        </link>
+        <updated>2020-07-10T00:50:35.000Z</updated>
+        <content type="html"><![CDATA[<p>迅捷PDF转换器6.9离线安装版<br>
+<img src="https://changome.github.io/post-images/1594342245206.png" alt="" loading="lazy"></p>
+<p>下载地址：https://52pic.top/software/313/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零基础开始用Python处理Excel数据]]></title>
+        <id>https://changome.github.io/post/YgcAOtVzV/</id>
+        <link href="https://changome.github.io/post/YgcAOtVzV/">
+        </link>
+        <updated>2020-07-10T00:38:57.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://changome.github.io/post-images/1594341577281.png" alt="" loading="lazy"><br>
+教程简介：</p>
+<p>=<mark><mark>【曾贤志】从零基础开始用Python处理Excel数据 – 第1季</mark></mark>==</p>
+<p>1-1 什么是python？ .mp4</p>
+<p>1-2 为什么要学习用Python处理Excel表格？ .mp4</p>
+<p>1-3 手把手教你安装python程序 .mp4</p>
+<p>1-4 安装Python集成开发工具PyCharm .mp4</p>
+<p>1-5 Python的输出与输入 .mp4</p>
+<p>1-6 Python的代码注释 .mp4</p>
+<p>1-7 学Python，不愁没对象 .mp4</p>
+<p>1-8 Python中的数字与字符串 .mp4</p>
+<p>1-9 算术运算符 .mp4</p>
+<p>1-10 比较运算符 .mp4</p>
+<p>1-11 赋值运算符 .mp4</p>
+<p>1-12 逻辑运算符 .mp4</p>
+<p>1-13 成员运算符 .mp4</p>
+<p>1-14 格式化字符串 .mp4</p>
+<p>1-15 完美看清代码运行过程 .mp4</p>
+<p>2-1 什么是模块、包、库 .mp4</p>
+<p>2-2 安装Excel读取库xlrd .mp4</p>
+<p>2-3 xlrd模块导入 .mp4</p>
+<p>2-4 读取Excel工作簿、工作表信息 .mp4</p>
+<p>2-5 读取Excel行、列、单元格信息 .mp4</p>
+<p>2-6 安装Excel写入库xlwt .mp4</p>
+<p>2-7 创建工作簿、工作表和写入单元格 .mp4</p>
+<p>2-8 安装Excel修改库 .mp4</p>
+<p>2-9 修改工作簿、工作表、单元格 .mp4</p>
+<p>3-1 for…in循环语句基础 .mp4</p>
+<p>3-2 for…in循环语句应用（批量创建工作簿） .mp4</p>
+<p>3-3 for…in嵌套循环语句 .mp4</p>
+<p>3-4 for…in嵌套循环语句应用（制作九九乘法表） .mp4</p>
+<p>3-5 while循环语句 .mp4</p>
+<p>3-6 while循环语句应用（读取工作簿信息到新表） .mp4</p>
+<p>3-7 while嵌套循环语句 .mp4</p>
+<p>3-8 while嵌套循环语句应用（批量创建工作簿、工作表） .mp4</p>
+<p>3-9 if条件语句 .mp4</p>
+<p>3-10 if…else条件语句 .mp4</p>
+<p>3-11 多条件if语句1（将筛选结果写入新工作簿） .mp4</p>
+<p>3-12 多条件if语句2（根据总分判断等级） .mp4</p>
+<p>3-13 break语句（跳出整个循环） .mp4</p>
+<p>3-14 continue语句（跳出当次循环） .mp4</p>
+<p>3-15 综合应用 .mp4</p>
+<p>4-1 字符串切片 .mp4</p>
+<p>4-2 字符串切片应用（整理工作表数据） .mp4</p>
+<p>4-3 字符串长度（个数）统计 .mp4</p>
+<p>4-4 字符串的查找 .mp4</p>
+<p>4-5 字符串的替换-51CTO学院 2019-01-12 13_30 .mp4</p>
+<p>4-6 字符串的拆分与合并-51CTO学院 2019-01-12 13_30 .mp4</p>
+<p>5-1 列表基础-51CTO学院 2019-01-12 13_30 .mp4</p>
+<p>5-2 列表切片-51CTO学院 2019-01-12 13_31 .mp4</p>
+<p>5-3 列表的增加、删除、修改-51CTO学院 2019-01-12 13_31 .mp4</p>
+<p>5-4 实例应用（汇总每个人的总成绩）-51CTO学院 2019-01-12 13_31 .mp4</p>
+<p>5-5 列表操作符-51CTO学院 2019-01-12 13_31 .mp4</p>
+<p>5-6 列表推导式-51CTO学院 2019-01-12 13_52 .mp4</p>
+<p>5-7 实例应用（筛选各工作表中符合条件的值）-51CTO学院 2019-01-12 13_31 .mp4</p>
+<p>5-8 列表转换-51CTO学院 2019-01-12 13_32 .mp4</p>
+<p>5-9 实例应用（统计出大于等于2万的记录到新表）-51CTO学院 2019-01-12 13_32 .mp4</p>
+<p>5-10 列表常见统计方式1-51CTO学院 2019-01-12 13_32 .mp4</p>
+<p>5-11 列表常见统计方式2-51CTO学院 2019-01-12 13_32 .mp4</p>
+<p>6-1 元组的创建-51CTO学院 2019-01-12 13_33 .mp4</p>
+<p>6-2 元组的基本操作-51CTO学院 2019-01-12 13_33 .mp4</p>
+<p>6-3 元组常用统计方法 .mp4</p>
+<p>7-1 字典的基础-51CTO学院 2019-01-12 13_57 .mp4</p>
+<p>7-2 实例应用（提取产品最后的记录）-51CTO学院 2019-01-12 13_57 .mp4</p>
+<p>7-3 字典的转换 .mp4</p>
+<p>7-4 实例应用（多列求唯一值） .mp4</p>
+<p>7-5 字典的删除 .mp4</p>
+<p>7-6 实例应用（查询未发货订单） .mp4</p>
+<p>7-7 字典的修改 .mp4</p>
+<p>7-8 实例应用（统计各种蔬菜的总金额） .mp4</p>
+<p>7-9 字典的查询 .mp4</p>
+<p>7-10 实例应用（统计各日期的销售数据） .mp4</p>
+<p>7-11 字典的循环 .mp4</p>
+<p>7-12 实例应用（统计各省各公司总业绩） .mp4</p>
+<p>8-1 集合的创建 .mp4</p>
+<p>8-2 实例应用（判断指定项目是否存在） .mp4</p>
+<p>8-3 集合的添加与删除 .mp4</p>
+<p>8-4 实例应用（多行多列求唯一值） .mp4</p>
+<p>8-5 集合的循环与推导 .mp4</p>
+<p>8-6 实例应用（统计每月每个战队的人数） .mp4</p>
+<p>8-7 集合的运算 .mp4</p>
+<p>8-8 实例应用（求每个人不达标的月份） .mp4</p>
+<p>9-1 自定义函数的基本结构 .mp4</p>
+<p>9-2 位置参数写法及应用 .mp4</p>
+<p>9-3 默认参数写法及应用 .mp4</p>
+<p>9-4 关键字参数写法及应用 .mp4</p>
+<p>9-5 不定长参数写法及应用 .mp4</p>
+<p>9-6 匿名函数写法及应用 .mp4</p>
+<p>9-7 递归函数写法及应用 .mp4</p>
+<p>10-1 map转换函数 .mp4</p>
+<p>10-2 filter筛选函数 .mp4</p>
+<p>10-3 sort与sorted排序函数 .mp4</p>
+<p>课程资料.zip</p>
+<p>=<mark><mark>【曾贤志】用Python中的openpyxl处理Excel数据 – 第2季</mark></mark>==<br>
+1 1.1 Openpyxl库的安装使用 .mp4</p>
+<p>2 1.2 Excel的新建、读取、保存 .mp4</p>
+<p>3 1.3 工作表对象的获取方法 .mp4</p>
+<p>4 1.4 工作表的新建、复制、删除 .mp4</p>
+<p>5 1.5 关于工作表的实例应用 .mp4</p>
+<p>6 1.6 单元格信息获取 .mp4</p>
+<p>7 1.7 单元格区域信息获取 .mp4</p>
+<p>8 1.8 行列信息获取 .mp4</p>
+<p>9 1.9 单元格的写入 .mp4</p>
+<p>10 1.10 批量写入数据 .mp4</p>
+<p>11 1.11 循环方式批量写入数据 .mp4</p>
+<p>12 1.12 工作表行、列的插入与删除 .mp4</p>
+<p>13 1.13 实例应用（求和结果写入单元格） .mp4</p>
+<p>14 1.14 实例应用（筛选成绩总分大于等于300分的记录） .mp4</p>
+<p>15 1.15 实例应用（工资条制作） .mp4</p>
+<p>16 1.16 实例应用（多工作表合并到单工作表） .mp4</p>
+<p>17 1.17 实例应用（单工作表拆分到多工作表） .mp4</p>
+<p>18 1.18 实例应用（单工作簿拆分到多工作簿中（单表中）） .mp4</p>
+<p>19 1.19 实例应用（单工作簿拆分到多工作簿中（多表中）） .mp4</p>
+<p>20 1.20 实例应用（二维表转一维表） .mp4</p>
+<p>21 1.21 实例应用（一维转二维） .mp4</p>
+<p>22 1.22 实例应用（将入库单据数据写入工作表） .mp4</p>
+<p>配套资料 .zip</p>
+<p>下载地址：https://52pic.top/welfare/312/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某宝下的深度学习课程人脸识别]]></title>
+        <id>https://changome.github.io/post/erMYR1fd2/</id>
+        <link href="https://changome.github.io/post/erMYR1fd2/">
+        </link>
+        <updated>2020-07-10T00:29:54.000Z</updated>
+        <content type="html"><![CDATA[<p>某宝下的深度学习课程人脸识别</p>
+<p>下载地址：https://52pic.top/welfare/311/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东学生认证 只需要一步，毕业也可以]]></title>
+        <id>https://changome.github.io/post/BlDtgndCv/</id>
+        <link href="https://changome.github.io/post/BlDtgndCv/">
+        </link>
+        <updated>2020-07-10T00:21:14.000Z</updated>
+        <content type="html"><![CDATA[<p>直接点开狗东的页面，在“我的”里有个小白积分，点进去点击提升积分，下滑会有一个学生验证。</p>
+<p>点进去选个入学时间，就可以直接完成学生验证。我刚成功的时候感觉很离谱，后来跟群里人说了，大家都完成了学生认证。</p>
+<p>后面的学历和学校貌似可以随便填，看到还有垃圾佬填了博士一类的，照样通过了！！    （年龄限制26岁以下好像，26岁以上的就没必要看了）<br>
+<img src="https://changome.github.io/post-images/1594340505482.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordpress响应式中文网址导航主题模板HaoWa1.3.1]]></title>
         <id>https://changome.github.io/post/LWvet49Ct/</id>
@@ -178,87 +337,6 @@ article_article.htm 文章内容<br>
 暂无<br>
 <img src="https://changome.github.io/post-images/1594287686673.gif" alt="" loading="lazy"></p>
 <p>下载地址：https://52pic.top/code/304/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress网址导航主题：简洁响应式主题巴巴风格模板]]></title>
-        <id>https://changome.github.io/post/hoVi1qu4S/</id>
-        <link href="https://changome.github.io/post/hoVi1qu4S/">
-        </link>
-        <updated>2020-07-09T09:21:34.000Z</updated>
-        <content type="html"><![CDATA[<p>爱导航是一款WordPress网址导航大全主题风格，适用建立好看、强劲的导航栏类网址。这款导航栏主题风格的主页选用模块化，能够加上不一样连接归类下的连接，每一个控制模块都能够挑选是不是显示信息连接标志、连接叙述，能够设定要显示信息的连接数量、每列要显示信息的连接数、题目大小、连接打开，这些。</p>
-<p>爱导航主题风格内嵌强劲、实用的连接管理方法作用，不用一切第三方软件就可以应用。假如您正期待构建一个好看、空气、技术专业的网址导航大全网址，那麼这款爱导航WordPress主题风格会是一个很好的挑选。</p>
-<p>爱导航WordPress主题特色</p>
-<p>全新自适应网站设计（完美兼容电脑、平板、手机等各种设备）<br>
-强大的首页链接模块：1-15列链接排版，多种展示模式任你设置<br>
-强大的主题设置面板，可直接从网站后台设置和修改主题的各个细节<br>
-首页、文章列表页、文章内容页、右侧边栏均可设置广告<br>
-全自动生成文章缩略图，激活主题即可自动完成<br>
-无限主题颜色，可任意切换<br>
-移动端专属导航菜单<br>
-支持专题功能<br>
-文章列表展示多图<br>
-文章列表展示广告<br>
-文章页支持社交网站分享<br>
-文章页展示相关文章<br>
-文章页展示作者说明<br>
-文章页展示上/下一篇文章<br>
-全宽页面模板<br>
-完美兼容IE9+、Chrome、Firefox、Safari、360等主流浏览器，针对mac OS等Retina屏幕优化显示<br>
-100 WordPress代码标准验证通过<br>
-100 W3C验证通过<br>
-主题代码经过特殊优化，使用最少的主机（服务器）资源<br>
-主题完全开源，无任何隐藏代码，零广告，零风险<br>
-<img src="https://changome.github.io/post-images/1594286527297.gif" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/code/303/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[亲测破解无授权]最新四端同步影视源码苹果cms影视四端APIcloud混合原生APP源码支持选集+秒播+缓存下载]]></title>
-        <id>https://changome.github.io/post/Ck5kRTv5s/</id>
-        <link href="https://changome.github.io/post/Ck5kRTv5s/">
-        </link>
-        <updated>2020-07-09T09:14:28.000Z</updated>
-        <content type="html"><![CDATA[<p>今天给大家带来的是苹果cms乐看！最新破解版去授权支持在线切换2套主题</p>
-<p>本源码目前是我见过最好看好用的一套源码，不是什么千月,通霸云可比的</p>
-<p>我这里自己搭建了一下没有问题</p>
-<p>影视源码介绍：</p>
-<p>原生安卓端影视app 支持投屏，选集，秒播，缓存下载等等，</p>
-<p>开发语言 php ，使用编译apicloud</p>
-<p>对接苹果cms后台 不是垃圾千月 可比的 不管体验感觉还是什么无法对比的。天镶之别。<br>
-<img src="https://changome.github.io/post-images/1594286102363.gif" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/code/302/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千月蓝牙10增强和谐版]]></title>
-        <id>https://changome.github.io/post/yZV-5scyH/</id>
-        <link href="https://changome.github.io/post/yZV-5scyH/">
-        </link>
-        <updated>2020-07-09T08:39:41.000Z</updated>
-        <content type="html"><![CDATA[<p>千月蓝牙软件，秉承了美观友好的操作界面，千月蓝牙可轻松帮您实现台式机或笔记本等各种计算机平台间的无线连接；无线访问种类繁多的具有蓝牙功能的设备；无线接入Internet、搭建蓝牙无线网络，随时随地与其他计算机或掌上电脑(PDA)交换信息、共享资源的需求，使用蓝牙鼠标、键盘、通过蓝牙耳机听音乐等各种应用。可支持Windows 2000/XP/Vista以及Win7/8系统平台。BlueSoleil 10主要功能包括蓝牙局域网（PAN）、蓝牙高质量音频（A2DP，HFP）、蓝牙图像传输功能（BIP）、串行端口功能 （SPP）、蓝牙打印服务（HCRP）、 蓝牙文件传输服务（FTP）、蓝牙信息交换服务（OPP）、蓝牙拨号上网服务（DUN）。</p>
-<p>软件特色：<br>
-1、基于千月基本版，添加了更人性化的功能<br>
-2、全面支持蓝牙4.0，完美发挥蓝牙4.0的适配器优质特性；<br>
-3、完善的windows XP/7/8 /8.1的32位和64位系统支持；<br>
-4、VoIP和iSend功能；<br>
-5、可以自动连接已配对设备等；</p>
-<p>特别说明：楼主用几年前某宝二十买的蓝牙耳麦亲测完美运行，如果你无法运行，只能是设备原因。<br>
-注意:如果你是台式电脑没有插上USB蓝牙接收发射器的话你也是链接不了的。<br>
-<img src="https://changome.github.io/post-images/1594284037826.png" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/software/301/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨花石音乐打铃系统2.0.3]]></title>
-        <id>https://changome.github.io/post/rnkxRAbew/</id>
-        <link href="https://changome.github.io/post/rnkxRAbew/">
-        </link>
-        <updated>2020-07-09T08:30:46.000Z</updated>
-        <content type="html"><![CDATA[<p>我最近准备考试，需要找个软件安排自己的规律的作息时间，找了很久找到了这个，已经使用了很久了，看论坛上面没有，就发出来分享给大家，软件注册信息在TXT文件里。<br>
-<img src="https://changome.github.io/post-images/1594283505120.png" alt="" loading="lazy"><br>
-<img src="https://changome.github.io/post-images/1594283509857.png" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/software/300/</p>
 ]]></content>
     </entry>
 </feed>
