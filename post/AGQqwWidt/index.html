@@ -1,0 +1,273 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>最新织梦全国多城市分站地区插件dedecms分站网站源码插件dede插件城市伪静态插件 | 成麦资源网</title>
+<link rel="shortcut icon" href="https://changome.github.io/favicon.ico?v=1594429573898">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://changome.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="最新织梦全国多城市分站地区插件dedecms分站网站源码插件dede插件城市伪静态插件 | 成麦资源网 - Atom Feed" href="https://changome.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="织梦城市分站插件系统使用说明
+温馨提示：使用前请先备份网站，以防万一。
+1、系统设置：
+核心设置——  是否使用伪静态：是
+其他选项——  模板引擎禁用标签：清空，去掉PHP
+性能选项——arclist标签调用缓存：0
+2、后台-系统-SQ..." />
+    <meta name="keywords" content="织梦插件,织梦模板,织梦模板下载,织梦cms模板,精品源码" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://changome.github.io">
+  <img class="avatar" src="https://changome.github.io/images/avatar.png?v=1594429573898" alt="">
+  </a>
+  <h1 class="site-title">
+    成麦资源网
+  </h1>
+  <p class="site-description">
+    更多免费资源请访问官网：https://52pic.top
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              最新织梦全国多城市分站地区插件dedecms分站网站源码插件dede插件城市伪静态插件
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-07-11
+              </span>
+              <span>
+                6 min read
+              </span>
+              
+                <a href="https://changome.github.io/tag/ZM2obpX9C/" class="post-tag">
+                  # 织梦插件
+                </a>
+              
+                <a href="https://changome.github.io/tag/-057sySVM/" class="post-tag">
+                  # 织梦模板
+                </a>
+              
+                <a href="https://changome.github.io/tag/Yas5AydZkk/" class="post-tag">
+                  # 织梦模板下载
+                </a>
+              
+                <a href="https://changome.github.io/tag/o4R3lD7-l6/" class="post-tag">
+                  # 织梦cms模板
+                </a>
+              
+                <a href="https://changome.github.io/tag/zWOSfGq_8V/" class="post-tag">
+                  # 精品源码
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>织梦城市分站插件系统使用说明</p>
+<p>温馨提示：使用前请先备份网站，以防万一。</p>
+<p>1、系统设置：<br>
+核心设置——  是否使用伪静态：是<br>
+其他选项——  模板引擎禁用标签：清空，去掉PHP<br>
+性能选项——arclist标签调用缓存：0</p>
+<p>2、后台-系统-SQL命令行工具中执行两语句：<br>
+(1)将所有文档设置为仅动态浏览<br>
+update dede_archives set ismake=-1<br>
+(1)将所有栏目设置为使用动态页<br>
+update dede_arctype set isdefault=-1<br>
+3、文件覆盖：<br>
+上传整个mycity文件夹和.htaccess文件到根目录；覆盖根目录下的dede和include两个文档；切记覆盖前先备份好网站文件及数据库，数据丢失概不负责。</p>
+<p>/include/helpers/<br>
+-----channelunit.helper.php  //伪静态设置</p>
+<p>/include/<br>
+----arc.listview.class.php  //文章分页<br>
+----arc.taglist.class.php   //标签分页<br>
+----typelink.class.php      //当前位置<br>
+----arc.archives.class      //上一篇下一篇</p>
+<p>/include/taglib/<br>
+----arclist.lib.php         //分页<br>
+----channel.lib.php         //导航<br>
+----tag.lib.php             //标签</p>
+<p>伪静态设置请根据自己的环境来设置，文件中的bcloud_nginx_user.conf是百度云主机的伪静态文件，直接上传百度云虚拟主机就行，Nginx.txt是linux提供宝塔的伪静态内容，复制里面的内容到伪静态设置即可。windows的IIS可以去https://www.toolnb.com/tools/rewriteTools.html这里转换伪静态规则。</p>
+<p>4、域名信息：（设置站点）<br>
+打开mycity文件夹下的index.php文件，修改文件中的域名。不需要加http</p>
+<p>5、修改每个模板文件的头部代码<br>
+在需要添加分站的模板和之间添加以下代码；<br>
+{dede:php}require (DEDEROOT.'/mycity/index.php');{/dede:php}  //模板引用城市，必不可少的<br>
+这段代码一定要放在头部TDK之前，才有效。</p>
+<p>(1)主页模板标题改为<br>
+{dede:php}echo constant(&quot;title&quot;);{/dede:php}<br>
+格式：'分站 站群'  =&gt; '北京分站|北京站群'，在系统设置里的网站名称里填入分站 站群，即可有北京分站|北京站群 这样的效果</p>
+<p>(2)主页模板关键词改为<br>
+{dede:php}echo constant(&quot;keywords&quot;);{/dede:php}<br>
+格式：'分站,站群'  =&gt; '北京分站,北京站群'</p>
+<p>(3)主页模板描述改为<br>
+{dede:php}echo constant(&quot;city&quot;);{/dede:php}{dede:global.cfg_description/}</p>
+<p>首页TDK实例：<br>
+{dede:php}require(DEDEROOT.'/mycity/index.php');{/dede:php}</p>
+<p>{dede:php}echo constant(&quot;keywords&quot;);{/dede:php}&quot; /&gt;</p>
+<p>6、修改栏目调用链接<br>
+所有栏目调用链接[field:typelink/]修改为<br>
+[field:cityurl runphp='yes']@me=constant('cityurl');[/field:cityurl]/list-[field:id/].html<br>
+栏目名称调用[field:typename/]修改为<br>
+[field:city runphp='yes']@me=constant('city');[/field:city][field:typename/]<br>
+如果{dede:channel type=son noself=yes}这个标签的导航高亮不好使的话，就改为<br>
+{dede:channelartlist row=7 typeid=top currentstyle=current}这样的标签的导航高亮</p>
+<p>{dede:channelartlist row=7 typeid=top currentstyle=current}<br>
+{dede:field.typeurl/}{dede:field.typename/}{/dede:channelartlist}这样调用，栏目链接{dede:field.typeurl/}改为：{dede:type }[field:cityurl runphp='yes']@me=constant('cityurl');[/field:cityurl]/list-[field:id/].html{/dede:type}<br>
+栏目名称{dede:field.typename/}改为：{dede:type}[field:city runphp='yes']@me=constant('city');[/field:city][field:typename/]{/dede:type}</p>
+<p>头部head.htm模板里的首页调用可以这样写：{dede:type }[field:cityurl runphp='yes']@me=constant('cityurl');[/field:cityurl]/index.html{/dede:type}</p>
+<p>栏目页TDK实例：<br>
+{dede:php}require (DEDEROOT.'/mycity/index.php');{/dede:php}</p>
+<p>7、修改文章标题和链接调用<br>
+所有文章标题调用链接[field:title/]修改为<br>
+[field:cityrunphp='yes']@me=constant('city');[/field:city][field:title/]<br>
+*看个人需求，文章标题链接调用可改可不改，修改了文章标题也会随着城市的切换改变城市状态。</p>
+<p>所有文章调用链接[field:arcurl/]修改为<br>
+[field:cityurl runphp='yes']@me=constant('cityurl');[/field:cityurl]/view-[field:id/].html</p>
+<p>内容页文章标题{dede:field.title/}修改为：<br>
+{dede:php}echo constant(&quot;city&quot;);{/dede:php}{dede:field.title/}</p>
+<p>文章页TDK实例：<br>
+{dede:php}require (DEDEROOT.'/mycity/index.php');{/dede:php}</p>
+<p>8、当前位置调用<br>
+当前位置调用{dede:field name='position'/}改为<br>
+{dede:field name='position' runphp='yes'}<br>
+$st=split(' &gt; ',@me);<br>
+<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>l</mi><msup><mo>=</mo><mrow><mo mathvariant="normal">′</mo><mo mathvariant="normal">′</mo></mrow></msup><mo separator="true">;</mo><mi>f</mi><mi>o</mi><mi>r</mi><mi>e</mi><mi>a</mi><mi>c</mi><mi>h</mi><mo>(</mo></mrow><annotation encoding="application/x-tex">l = &#x27;&#x27;;
+    foreach (</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.751892em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"><span class="mrel">=</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mpunct">;</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">e</span><span class="mord mathdefault">a</span><span class="mord mathdefault">c</span><span class="mord mathdefault">h</span><span class="mopen">(</span></span></span></span>st as $v) {<br>
+<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mo>=</mo><mi>s</mi><mi>p</mi><mi>l</mi><mi>i</mi><mi>t</mi><mo>(</mo><msup><mi mathvariant="normal">&quot;</mi><mo mathvariant="normal">′</mo></msup><mo>&gt;</mo><mi mathvariant="normal">&quot;</mi><mo separator="true">,</mo></mrow><annotation encoding="application/x-tex">s = split(&quot;&#x27;&gt;&quot;,</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.001892em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">p</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">i</span><span class="mord mathdefault">t</span><span class="mopen">(</span><span class="mord"><span class="mord">&quot;</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">&quot;</span><span class="mpunct">,</span></span></span></span>v);<br>
+if($s['1']){<br>
+$l.= <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><msup><mo>[</mo><mo mathvariant="normal">′</mo></msup><msup><mn>0</mn><mo mathvariant="normal">′</mo></msup><mo>]</mo><mi mathvariant="normal">.</mi><msup><mi mathvariant="normal">&quot;</mi><mo mathvariant="normal">′</mo></msup><mo>&gt;</mo><mi mathvariant="normal">&quot;</mi><mi mathvariant="normal">.</mi><mi>c</mi><mi>i</mi><mi>t</mi><mi>y</mi><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">s[&#x27;0&#x27;].&quot;&#x27;&gt;&quot;.city.</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.001892em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mopen"><span class="mopen">[</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mclose">]</span><span class="mord">.</span><span class="mord"><span class="mord">&quot;</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">&quot;</span><span class="mord">.</span><span class="mord mathdefault">c</span><span class="mord mathdefault">i</span><span class="mord mathdefault">t</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mord">.</span></span></span></span>s['1'].&quot; &gt; &quot;;<br>
+}<br>
+}<br>
+@me=$l;<br>
+{/dede:field}<br>
+*当前栏目点击不能调到对应栏目，只能跳到首页</p>
+<p>9、调用所有城市列表<br>
+可以创建一个栏目和城市模板去调用，也可以放到自己想要调用城市的页面，这随意。</p>
+<p>在需要显示城市名的地方插入以下代码中的一项，有两种展示形式，<br>
+(1)全国分类城市展示<br>
+{dede:php}echo constant(&quot;link&quot;);{/dede:php}</p>
+<p>(2)城市全部列表<br>
+{dede:php}echo constant(&quot;links&quot;);{/dede:php}</p>
+<p>要调用城市名称请用这个标签调用{dede:php}echo constant(&quot;city&quot;);{/dede:php}效果看图片<br>
+<img src="https://changome.github.io/post-images/1594428367787.gif" alt="" loading="lazy"></p>
+<p>下载地址：https://52pic.top/code/317/</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://changome.github.io/post/xQ1OnEflK/">
+              <h3 class="post-title">
+                【亲测源码】Ripro子主题_jizhi-chlid极致主题4.0免授权破解版 wordpress主题
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://changome.github.io" target="_blank">成麦资源</a>
+  <a class="rss" href="https://changome.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
