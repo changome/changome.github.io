@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changome.github.io</id>
     <title>成麦资源网</title>
-    <updated>2020-07-12T01:08:34.777Z</updated>
+    <updated>2020-07-13T01:01:45.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changome.github.io"/>
     <link rel="self" href="https://changome.github.io/atom.xml"/>
@@ -10,6 +10,62 @@
     <logo>https://changome.github.io/images/avatar.png</logo>
     <icon>https://changome.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 成麦资源网</rights>
+    <entry>
+        <title type="html"><![CDATA[问题解决办法：VM虚拟机装win10系统找不到磁盘]]></title>
+        <id>https://changome.github.io/post/uDOruLWKH/</id>
+        <link href="https://changome.github.io/post/uDOruLWKH/">
+        </link>
+        <updated>2020-07-13T00:59:25.000Z</updated>
+        <content type="html"><![CDATA[<p>一直在这里找方法，今天分享个自己发现的小技巧，大神请略过。<br>
+故事的起因是因为我用的一个名为cimatron的软件有点问题，度娘说跟系统版本有关，<br>
+我就想先用虚拟机装个试试看，结果把我给难住了。</p>
+<p>虚拟机VM，大家都了解，安装过程也不说了，用U盘，都知道，说结果，选择典型安装，<br>
+N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照度娘说的各种试，各种找不到磁盘。</p>
+<p>后来我就想，为啥win7可以win10不行呢，我就选择了高级安装模式，到了磁盘类型那里我发现区别了<br>
+，win10推荐的是NVMe，win7是SCSI，手动把磁盘类型选择成跟win7一样的设置，顺利安装成功，<br>
+全剧终！</p>
+<p>虚拟机版本<br>
+<img src="https://changome.github.io/post-images/1594601996747.png" alt="" loading="lazy"></p>
+<p>win10<br>
+<img src="https://changome.github.io/post-images/1594602015772.png" alt="" loading="lazy"></p>
+<p>win7<br>
+<img src="https://changome.github.io/post-images/1594602034796.png" alt="" loading="lazy"></p>
+<p>问题如图<br>
+<img src="https://changome.github.io/post-images/1594602052294.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企业组织架构搭建材料]]></title>
+        <id>https://changome.github.io/post/9qhL2cqQS/</id>
+        <link href="https://changome.github.io/post/9qhL2cqQS/">
+        </link>
+        <updated>2020-07-13T00:49:30.000Z</updated>
+        <content type="html"><![CDATA[<p>收集了一些组织架构搭建的相关材料<br>
+<img src="https://changome.github.io/post-images/1594601417656.png" alt="" loading="lazy"></p>
+<p>下载地址：https://52pic.top/welfare/337/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[户外运动与各种野外救援]]></title>
+        <id>https://changome.github.io/post/dkjTvM2EK/</id>
+        <link href="https://changome.github.io/post/dkjTvM2EK/">
+        </link>
+        <updated>2020-07-13T00:35:46.000Z</updated>
+        <content type="html"><![CDATA[<p>分享户外运动与各种野外救援的1398个文件<br>
+<img src="https://changome.github.io/post-images/1594600655946.png" alt="" loading="lazy"></p>
+<p>下载地址：https://52pic.top/welfare/336/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑马前端全栈就业教程]]></title>
+        <id>https://changome.github.io/post/ArIJDwYur/</id>
+        <link href="https://changome.github.io/post/ArIJDwYur/">
+        </link>
+        <updated>2020-07-12T06:32:09.000Z</updated>
+        <content type="html"><![CDATA[<p>【黑马前端全栈就业教程】</p>
+<p>下载地址：https://52pic.top/welfare/334/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ogpt广告自动点击站点]]></title>
         <id>https://changome.github.io/post/CaDDqb9Ra/</id>
@@ -108,91 +164,6 @@
 五、做好小打卡主题；（可以根据课程安排一次做好几天的打卡主题，也可以每天自动推送给学生）； <br>
 六、建议让学生准备好两个本子：一个学习笔记，一个错题本。 七、辅导老师根据学校安排在QQ群进行网上讲解（......下载查看全部内容）</p>
 <p>下载地址：https://52pic.top/library/328/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼尔斯骑鹅旅行记习题及答案.docx]]></title>
-        <id>https://changome.github.io/post/EsoTcnHpo/</id>
-        <link href="https://changome.github.io/post/EsoTcnHpo/">
-        </link>
-        <updated>2020-07-11T08:19:55.000Z</updated>
-        <content type="html"><![CDATA[<p>尼尔斯骑鹅旅行记》练习题</p>
-<p>学号              姓名           <br>
-一、填空题。 <br>
-1、《尼尔斯骑鹅旅行记》的作者是 瑞典 （国家）的 塞尔玛·拉格洛芙（人名）。  <br>
-2、 小精灵 （谁）把尼尔斯变成了小矮人。  <br>
-3、尼尔斯骑的那只鹅叫   莫顿  。    <br>
-4、海底城市受到了 上帝  的惩罚。  <br>
-5、尼尔斯被渔夫以    20法郎   的价格卖给了斯德哥尔摩郊区公园的看门老人克莱门特。      <br>
-6、雁群的领头雁叫   阿卡   。  <br>
-7、小灰雁邓芬身上的伤是  尼尔斯   治好的。  <br>
-8、   狐狸    一路上跟踪雁群，一次次找雁群麻烦。  <br>
-9、尼尔斯看到的那个海底城市要   100  年才能从海底浮上地面一次。  <br>
-10、当一群乌鸦攻击尼尔斯的时候，是   卡尔木   救了尼尔斯。  <br>
-二、选择题。 <br>
- 1、尼尔斯的父母为什么把尼尔斯一个人留在家里，（......下载查看全部）</p>
-<p>下载地址：https://52pic.top/library/327/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2P理财源码/带完整教程/请勿用于商业运营]]></title>
-        <id>https://changome.github.io/post/uh8saiRZT/</id>
-        <link href="https://changome.github.io/post/uh8saiRZT/">
-        </link>
-        <updated>2020-07-11T07:59:00.000Z</updated>
-        <content type="html"><![CDATA[<p>P2P理财源码/带完整教程/请勿用于商业运营，由于本源码需要win系统，liunx搭建的会出现错误，源码没问题，请放心使用。<br>
-<img src="https://changome.github.io/post-images/1594454359143.gif" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/code/326/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[织梦dedecms响应式在线教育培训企业网站模板(自适应手机移动端)]]></title>
-        <id>https://changome.github.io/post/2xlWqblf-/</id>
-        <link href="https://changome.github.io/post/2xlWqblf-/">
-        </link>
-        <updated>2020-07-11T07:20:57.000Z</updated>
-        <content type="html"><![CDATA[<p>模板介绍：<br>
-织梦最新内核开发的模板，该模板属于企业通用、HTML5响应式、在线教育、在线培训类企业使用，一款适用性很强的模板，基本可以适合各行业的企业网站！<br>
-响应式自适应各种移动设备，同一个后台，数据即时同步，简单适用！<br>
-原创设计、手工书写DIV+CSS，<br>
-完美兼容IE7+、Firefox、Chrome、360浏览器等；主流浏览器；<br>
-页面简洁简单，容易管理，DEDE内核都可以使用；附带测试数据！</p>
-<p>模板特点：<br>
-1：织梦自适应产品模板，代码简洁，风格大气高端，页面干净。<br>
-2：首页带新闻展示，服务介绍，案例展示等。<br>
-3：采用现在流行的HTML5框架，兼容主流的浏览器，响应式，自适应，完美支持移动设备<br>
-4：整站界面设计大气，展现出你的实力。<br>
-5：后台直接修改联系方式、地址、版权信息，网站内容等，修改更加方便。</p>
-<p>使用程序：<br>
-织梦DEDECMS版本都可以使用。</p>
-<p>模板页面：<br>
-index.htm 首页模板<br>
-head.htm<br>
-footer.htm<br>
-article_article.htm 文章内容<br>
-这里不一一列出！</p>
-<p>温馨提示：<br>
-按照正常的织梦安装步骤来安装还原就可以用了，从后台重新点击保存下系统基本参数。 系统&gt;系统基本参数&gt; 保存（确定）。<br>
-<img src="https://changome.github.io/post-images/1594452081228.gif" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/code/325/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[响应式膳食餐饮管理类织梦模板(自适应手机端)]]></title>
-        <id>https://changome.github.io/post/o99ePTQY-/</id>
-        <link href="https://changome.github.io/post/o99ePTQY-/">
-        </link>
-        <updated>2020-07-11T06:59:57.000Z</updated>
-        <content type="html"><![CDATA[<p>模板名称：<br>
-响应式膳食餐饮管理类织梦模板(自适应手机端)+利于SEO优化<br>
-模板介绍：</p>
-<p>织梦最新内核开发的模板，该模板属于企业通用、HTML5响应式、膳食管理、餐饮管理类企业使用，一款适用性很强的模板，基本可以适合各行业的企业网站！<br>
-响应式自适应各种移动设备，同一个后台，数据即时同步，简单适用！<br>
-原创设计、手工书写DIV+CSS，<br>
-完美兼容IE7+、Firefox、Chrome、360浏览器等；主流浏览器；<br>
-页面简洁简单，容易管理，DEDE内核都可以使用；附带测试数据！<br>
-<img src="https://changome.github.io/post-images/1594450819678.gif" alt="" loading="lazy"></p>
-<p>下载地址：https://52pic.top/code/324/</p>
 ]]></content>
     </entry>
 </feed>
