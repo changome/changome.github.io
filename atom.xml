@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://uvqkpt.coding-pages.com</id>
+    <id>https://52pic.ga</id>
     <title>成麦资源网</title>
-    <updated>2020-07-13T06:17:04.474Z</updated>
+    <updated>2020-07-13T06:18:16.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://uvqkpt.coding-pages.com"/>
-    <link rel="self" href="https://uvqkpt.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://52pic.ga"/>
+    <link rel="self" href="https://52pic.ga/atom.xml"/>
     <subtitle>更多免费资源请访问官网：https://52pic.top</subtitle>
-    <logo>https://uvqkpt.coding-pages.com/images/avatar.png</logo>
-    <icon>https://uvqkpt.coding-pages.com/favicon.ico</icon>
+    <logo>https://52pic.ga/images/avatar.png</logo>
+    <icon>https://52pic.ga/favicon.ico</icon>
     <rights>All rights reserved 2020, 成麦资源网</rights>
     <entry>
         <title type="html"><![CDATA[问题解决办法：VM虚拟机装win10系统找不到磁盘]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/uDOruLWKH/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/uDOruLWKH/">
+        <id>https://52pic.ga/post/uDOruLWKH/</id>
+        <link href="https://52pic.ga/post/uDOruLWKH/">
         </link>
         <updated>2020-07-13T00:59:25.000Z</updated>
         <content type="html"><![CDATA[<p>一直在这里找方法，今天分享个自己发现的小技巧，大神请略过。<br>
@@ -25,41 +25,41 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
 ，win10推荐的是NVMe，win7是SCSI，手动把磁盘类型选择成跟win7一样的设置，顺利安装成功，<br>
 全剧终！</p>
 <p>虚拟机版本<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594601996747.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594601996747.png" alt="" loading="lazy"></p>
 <p>win10<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594602015772.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594602015772.png" alt="" loading="lazy"></p>
 <p>win7<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594602034796.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594602034796.png" alt="" loading="lazy"></p>
 <p>问题如图<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594602052294.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594602052294.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[企业组织架构搭建材料]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/9qhL2cqQS/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/9qhL2cqQS/">
+        <id>https://52pic.ga/post/9qhL2cqQS/</id>
+        <link href="https://52pic.ga/post/9qhL2cqQS/">
         </link>
         <updated>2020-07-13T00:49:30.000Z</updated>
         <content type="html"><![CDATA[<p>收集了一些组织架构搭建的相关材料<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594601417656.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594601417656.png" alt="" loading="lazy"></p>
 <p>下载地址：https://52pic.top/welfare/337/</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[户外运动与各种野外救援]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/dkjTvM2EK/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/dkjTvM2EK/">
+        <id>https://52pic.ga/post/dkjTvM2EK/</id>
+        <link href="https://52pic.ga/post/dkjTvM2EK/">
         </link>
         <updated>2020-07-13T00:35:46.000Z</updated>
         <content type="html"><![CDATA[<p>分享户外运动与各种野外救援的1398个文件<br>
-<img src="https://uvqkpt.coding-pages.com/post-images/1594600655946.png" alt="" loading="lazy"></p>
+<img src="https://52pic.ga/post-images/1594600655946.png" alt="" loading="lazy"></p>
 <p>下载地址：https://52pic.top/welfare/336/</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黑马前端全栈就业教程]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/ArIJDwYur/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/ArIJDwYur/">
+        <id>https://52pic.ga/post/ArIJDwYur/</id>
+        <link href="https://52pic.ga/post/ArIJDwYur/">
         </link>
         <updated>2020-07-12T06:32:09.000Z</updated>
         <content type="html"><![CDATA[<p>【黑马前端全栈就业教程】</p>
@@ -68,8 +68,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[ogpt广告自动点击站点]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/CaDDqb9Ra/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/CaDDqb9Ra/">
+        <id>https://52pic.ga/post/CaDDqb9Ra/</id>
+        <link href="https://52pic.ga/post/CaDDqb9Ra/">
         </link>
         <updated>2020-07-12T01:07:53.000Z</updated>
         <content type="html"><![CDATA[<p>广告数量：13个<br>
@@ -83,8 +83,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[adso广告自动点击站]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/ejY9VSzsL/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/ejY9VSzsL/">
+        <id>https://52pic.ga/post/ejY9VSzsL/</id>
+        <link href="https://52pic.ga/post/ejY9VSzsL/">
         </link>
         <updated>2020-07-12T01:05:14.000Z</updated>
         <content type="html"><![CDATA[<p>广告数量：13个<br>
@@ -98,8 +98,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[幼儿园保健室制度和隔离室制度.docx]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/6Vh9vnqQM/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/6Vh9vnqQM/">
+        <id>https://52pic.ga/post/6Vh9vnqQM/</id>
+        <link href="https://52pic.ga/post/6Vh9vnqQM/">
         </link>
         <updated>2020-07-11T08:56:23.000Z</updated>
         <content type="html"><![CDATA[<p>隔离室制度<br>
@@ -118,8 +118,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[幼儿园教师队伍建设三年发展规划.docx]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/XAa_x5JBr/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/XAa_x5JBr/">
+        <id>https://52pic.ga/post/XAa_x5JBr/</id>
+        <link href="https://52pic.ga/post/XAa_x5JBr/">
         </link>
         <updated>2020-07-11T08:47:24.000Z</updated>
         <content type="html"><![CDATA[<p>幼儿园教师队伍建设三年发展规划 <br>
@@ -135,8 +135,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[幼儿园冬季传染病预防知识.docx]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/XP3v-iXyZ/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/XP3v-iXyZ/">
+        <id>https://52pic.ga/post/XP3v-iXyZ/</id>
+        <link href="https://52pic.ga/post/XP3v-iXyZ/">
         </link>
         <updated>2020-07-11T08:36:27.000Z</updated>
         <content type="html"><![CDATA[<p>幼儿园冬季传染病预防知识 <br>
@@ -151,8 +151,8 @@ N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照�
     </entry>
     <entry>
         <title type="html"><![CDATA[临淇镇一中关于开展疫情期间在家分散学习的学习方案.docx]]></title>
-        <id>https://uvqkpt.coding-pages.com/post/ajITIFnJC/</id>
-        <link href="https://uvqkpt.coding-pages.com/post/ajITIFnJC/">
+        <id>https://52pic.ga/post/ajITIFnJC/</id>
+        <link href="https://52pic.ga/post/ajITIFnJC/">
         </link>
         <updated>2020-07-11T08:28:15.000Z</updated>
         <content type="html"><![CDATA[<p>临淇镇一中 <br>
