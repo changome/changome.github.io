@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changome.github.io</id>
     <title>成麦资源网</title>
-    <updated>2020-07-15T09:49:45.352Z</updated>
+    <updated>2020-07-15T10:01:27.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changome.github.io"/>
     <link rel="self" href="https://changome.github.io/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://changome.github.io/images/avatar.png</logo>
     <icon>https://changome.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 成麦资源网</rights>
+    <entry>
+        <title type="html"><![CDATA[《刀剑神域：彼岸游境（SAO: Alicization Lycoris）》PC豪华版 免安装]]></title>
+        <id>https://changome.github.io/post/Tt6RVbdAF/</id>
+        <link href="https://changome.github.io/post/Tt6RVbdAF/">
+        </link>
+        <updated>2020-07-15T09:58:02.000Z</updated>
+        <content type="html"><![CDATA[<p>游戏介绍</p>
+<pre><code> 《刀剑神域：彼岸游境（Sword Art Online: Alicization Lycoris）》是由万代南梦宫制作发行的一款动作冒险游戏。游戏根据动漫《刀剑神域》新一季动画《刀剑神域Alicization》进行改编的游戏，使用大型开放世界无缝战斗RPG设定。作品相对原著和电视动画而言存在剧情分支，从《刀剑神域 Alicization》前半战最终集的故事开始，游戏为原创剧情。
+</code></pre>
+<p>游戏名称：刀剑神域：彼岸游境<br>
+英文名称：SAO: Alicization Lycoris<br>
+游戏类型：角色扮演类(RPG)游戏<br>
+游戏制作：AQURIA Co., Ltd.<br>
+游戏发行：BANDAI NAMCO Entertainment<br>
+游戏平台：PC<br>
+发售时间：2020年7月10日<br>
+官方网站：https://www.bandainamcoent.com/games/sword-art-online-alicization-lycoris</p>
+<p>■游戏内容<br>
+我们活在同一个当下。<br>
+以为能够永远相处在一起──</p>
+<p>桐人醒来的地方是一个完全未知的“虚拟世界”。<br>
+但是，他心底却有种怀念的感觉。<br>
+这是一个以虚拟世界《Underworld》为舞台，令人有些怀念的未知世界中所展开的故事。</p>
+<p>以动画《刀剑神域》中登场的广大《Underworld》为舞台，您将化身为主角桐人来进行冒险的RPG游戏。</p>
+<p>本款战斗采用无接缝战斗系统，<br>
+您会体验到灵活运用剑击、技能、神圣术、队伍连携来进行战斗，增添了动作要素的实时战斗模式。</p>
+<p>桐人在这个世界遇见了名为尤吉欧的少年。<br>
+深藏在心底的年幼约定……<br>
+为了实现那个约定，同时也为了不再度失去……<br>
+他们将不断向前迈进──</p>
+<p>系统需求</p>
+<p>最低配置:<br>
+需要 64 位处理器和操作系统<br>
+操作系统: Windows 10 64 bit<br>
+处理器: Intel Core i7-4790<br>
+内存: 8 GB RAM<br>
+显卡: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7950, 3 GB<br>
+DirectX 版本: 11<br>
+存储空间: 需要 45 GB 可用空间</p>
+<p>推荐配置:<br>
+需要 64 位处理器和操作系统<br>
+操作系统: Windows 10 64 bit<br>
+处理器: Intel Core i7-9700 | AMD Ryzen 5 3600<br>
+内存: 16 GB RAM<br>
+显卡: Nvidia GeForce GTX 1070, 8 GB | Radeon RX Vega 56, 8 GB<br>
+DirectX 版本: 11<br>
+存储空间: 需要 45 GB 可用空间<br>
+<img src="https://changome.github.io/post-images/1594807101201.png" alt="" loading="lazy"><br>
+<img src="https://changome.github.io/post-images/1594807106711.png" alt="" loading="lazy"></p>
+<p>下载地址：https://52pic.top/software/348/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【steam价值￥280新游】《牧场物语：重聚矿石镇》中文免安装版 ]]></title>
         <id>https://changome.github.io/post/jITxIsp2c/</id>
@@ -168,30 +220,6 @@ DirectX 版本: 11<br>
 付款方式：PP, PM, Payeer, CoinPayments<br>
 每天收入：$0.048</p>
 <p>注册地址：https://52pic.top/PTC/339/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问题解决办法：VM虚拟机装win10系统找不到磁盘]]></title>
-        <id>https://changome.github.io/post/uDOruLWKH/</id>
-        <link href="https://changome.github.io/post/uDOruLWKH/">
-        </link>
-        <updated>2020-07-13T00:59:25.000Z</updated>
-        <content type="html"><![CDATA[<p>一直在这里找方法，今天分享个自己发现的小技巧，大神请略过。<br>
-故事的起因是因为我用的一个名为cimatron的软件有点问题，度娘说跟系统版本有关，<br>
-我就想先用虚拟机装个试试看，结果把我给难住了。</p>
-<p>虚拟机VM，大家都了解，安装过程也不说了，用U盘，都知道，说结果，选择典型安装，<br>
-N个下一步之后，安装win7没毛病，安装win10找不到磁盘！按照度娘说的各种试，各种找不到磁盘。</p>
-<p>后来我就想，为啥win7可以win10不行呢，我就选择了高级安装模式，到了磁盘类型那里我发现区别了<br>
-，win10推荐的是NVMe，win7是SCSI，手动把磁盘类型选择成跟win7一样的设置，顺利安装成功，<br>
-全剧终！</p>
-<p>虚拟机版本<br>
-<img src="https://changome.github.io/post-images/1594601996747.png" alt="" loading="lazy"></p>
-<p>win10<br>
-<img src="https://changome.github.io/post-images/1594602015772.png" alt="" loading="lazy"></p>
-<p>win7<br>
-<img src="https://changome.github.io/post-images/1594602034796.png" alt="" loading="lazy"></p>
-<p>问题如图<br>
-<img src="https://changome.github.io/post-images/1594602052294.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
